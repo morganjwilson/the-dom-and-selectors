@@ -21,4 +21,4 @@ element. Use JavaScript to inject the paragragh's inner HTML with a
 string containing whatever text you want.
 ________________________________________________________________*/
 
-// Your code here
+document.getElementById("hidden-message").innerHTML = "Whats up dog";
